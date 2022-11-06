@@ -1,0 +1,11 @@
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\obj\Debug\timer_example.csproj.AssemblyReference.cache
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\obj\Debug\timer_example.csproj.SuggestedBindingRedirects.cache
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\obj\Debug\timer_example.Form1.resources
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\obj\Debug\timer_example.Properties.Resources.resources
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\obj\Debug\timer_example.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\obj\Debug\timer_example.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\bin\Debug\timer_example.exe.config
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\bin\Debug\timer_example.exe
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\bin\Debug\timer_example.pdb
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\obj\Debug\timer_example.exe
+C:\Users\win7\Desktop\vc2022\timer_example\timer_example\obj\Debug\timer_example.pdb
